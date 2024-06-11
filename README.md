@@ -43,6 +43,7 @@
 </div>
 
 <div align="center">
+  <br/><br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/overview.svg#gh-dark-mode-only" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/overview.svg#gh-light-mode-only" />
