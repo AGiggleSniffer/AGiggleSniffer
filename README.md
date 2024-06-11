@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?center=true&lines=Full+Stack+Tech;Hardware+Expert;Food+Enthusiast;Aspiring+Game+Dev;Indie+Game+Enthusiast"/>
+  <img align="center" src="https://readme-typing-svg.demolab.com/?center=true&lines=Full+Stack+Tech;Hardware+Expert;Food+Enthusiast;Aspiring+Game+Dev;Indie+Game+Enthusiast"/>
 </h2>
 
 <picture>
