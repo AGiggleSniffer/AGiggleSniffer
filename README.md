@@ -1,11 +1,20 @@
+<p align="left">
+  <a href="https://github.com/AGiggleSniffer?tab=followers">
+    <img alt="GitHub followers" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg" />
+  </a>
+</p>
+
+<p align="right">
+  <a href="http://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer">
+    <img alt="HitCount" src="https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique" />
+  </a>
+</p>
+
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=⚡+Full+Stack+Tech+⚡;💻+Hardware+Expert+💻;🍰+Food+Enthusiast+🍜;👾+Aspiring+Game+Dev+👾;🎮+Indie+Game+Enthusiast+🎮"/>
+  <img src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=⚡+Full+Stack+Tech+⚡;💻+Hardware+Expert+💻;🍰+Food+Enthusiast+🍜;👾+Aspiring+Game+Dev+👾;🎮+Indie+Game+Enthusiast+🎮"/>
 </h1>
 
-[![HitCount](https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique)](http://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![GitHub followers](https://img.shields.io/github/followers/AGiggleSniffer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AGiggleSniffer?tab=followers)
-[![GitHub commits](https://badgen.net/github/commits/AGiggleSniffer/Strapdown.js)](https://GitHub.com/AGiggleSniffer/StrapDown.js/commit/)
 
 <h2 align="center">
   Hi there, I'm Chris Williford 👋
@@ -39,6 +48,10 @@
     <img alt="github-snake" src="https://github.com/AGiggleSniffer/AGiggleSniffer/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
 
 <!--
 **AGiggleSniffer/AGiggleSniffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
