@@ -8,7 +8,20 @@
 
 <h3>Skills</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  Language:
+  <img src="https://skillicons.dev/icons?i=html,css,svg,cs,js,py,cs,powershell,regex" />
+</p>
+<p>
+  Deployment:
+  <img src="https://skillicons.dev/icons?i=github,git,bitbucket,docker,githubactions" />
+</p>
+<p>
+  Database:
+  <img src="https://skillicons.dev/icons?i=postgres,sequelize,mysql,sqlite" />
+</p>
+<p>
+  Other Technologies:
+  <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,nodejs,npm,vite,threejs,react,redux,unity,postman,ps,visualstudio,vscode" />
 </p>
 
 <div align="center">
