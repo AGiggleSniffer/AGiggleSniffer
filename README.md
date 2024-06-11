@@ -42,8 +42,18 @@
   </picture>
 </div>
 
-![overview](https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/overview.svg#gh-dark-mode-only)
-![languages](https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/overview.svg#gh-light-mode-only)
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/overview.svg#gh-dark-mode-only" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/overview.svg#gh-light-mode-only" />
+    <img alt="overview" src="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/overview.svg#gh-dark-mode-only" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-dark-mode-only" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-light-mode-only" />
+    <img alt="languages" src="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-dark-mode-only" />
+  </picture>
+</div>
 
 ![](https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-light-mode-only)
