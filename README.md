@@ -3,17 +3,17 @@
     <img alt="HitCount" src="https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique" />
 </p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=⚡+Full+Stack+Tech+⚡;💻+Hardware+Expert+💻;🍰+Food+Enthusiast+🍜;👾+Aspiring+Game+Dev+👾;🎮+Indie+Game+Enthusiast+🎮"/>
-</h1>
+</p>
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
-<h2 align="center">
+<h1 align="center">
   Hi there, I'm Chris Williford 👋
-</h2>
+</h1>
 
-<h3 align="center">:dizzy: Skills :dizzy:</h3>
+<h2 align="center">:dizzy: Skills :dizzy:</h2>
 <p>
   Language:
 </p>
