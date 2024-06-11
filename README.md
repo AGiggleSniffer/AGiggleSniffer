@@ -7,7 +7,9 @@
 </h2>
 
 <h3>Skills</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+</p>
 
 <div align="center">
   <h2 align="center">
