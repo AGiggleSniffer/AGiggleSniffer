@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/AGiggleSniffer?tab=followers">
-    <img alt="GitHub followers" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg" />
+    <img alt="GitHub followers" src="https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique" />
   </a>
 </p>
 
