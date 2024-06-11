@@ -1,3 +1,9 @@
+<style>
+h1, h2 {
+   border: none!important;
+}
+</style>
+
 <p align="right">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AGiggleSniffer.svg?style=social&label=Follow&maxAge=2592000" />
     <img alt="HitCount" src="https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique" />
@@ -11,12 +17,10 @@
 
 <h1 align="center">
     Hi there, I'm Chris Williford 👋
-    <br/><br/>
 </h1>
 
 <h2 align="center">
     :dizzy: Skills :dizzy:
-    <br/><br/>
 </h2>
 <p>
   Language:
@@ -38,7 +42,6 @@
 <div align="center">
   <h2 align="center">
     My Contributions
-    <br/><br/>
   </h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AGiggleSniffer/AGiggleSniffer/blob/output/github-contribution-grid-snake-dark.svg" />
