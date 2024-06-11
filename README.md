@@ -10,10 +10,14 @@
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 <h1 align="center">
-  Hi there, I'm Chris Williford 👋
+    Hi there, I'm Chris Williford 👋
+    <br/><br/><br/>
 </h1>
 
-<h2 align="center">:dizzy: Skills :dizzy:</h2>
+<h2 align="center">
+    :dizzy: Skills :dizzy:
+    <br/><br/><br/>
+</h2>
 <p>
   Language:
 </p>
@@ -33,7 +37,6 @@
 
 <div align="center">
   <h2 align="center">
-    <br/><br/><br/>
     My Contributions
     <br/><br/><br/>
   </h2>
