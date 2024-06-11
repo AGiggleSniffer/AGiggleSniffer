@@ -1,5 +1,5 @@
 <p align="right">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AGiggleSniffer.svg?style=social&label=Follow&maxAge=2592000" />
     <img alt="HitCount" src="https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique" />
 </p>
 
