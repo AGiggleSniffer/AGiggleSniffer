@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=:video_game:Full+Stack+Tech:video_game:;🎮Hardware+Expert🎮;Food+Enthusiast;Aspiring+Game+Dev;Indie+Game+Enthusiast"/>
+  <img align="center" src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=:video_game:+Full+Stack+Tech+:video_game:;🎮Hardware+Expert🎮;Food+Enthusiast;Aspiring+Game+Dev;Indie+Game+Enthusiast"/>
 </h1>
 🎮
 <h2 align="center">
