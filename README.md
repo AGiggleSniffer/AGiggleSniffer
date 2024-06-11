@@ -42,8 +42,8 @@
   </picture>
 </div>
 
-![](https://raw.githubusercontent.com/AGiggleSniffer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AGiggleSniffer/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![overview](https://raw.githubusercontent.com/AGiggleSniffer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![languages](https://raw.githubusercontent.com/AGiggleSniffer/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/AGiggleSniffer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AGiggleSniffer/github-stats/master/generated/languages.svg#gh-light-mode-only)
