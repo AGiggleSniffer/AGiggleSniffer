@@ -6,7 +6,7 @@
   Hi there, I'm Chris Williford 👋
 </h2>
 
-<h3>:dizzy: Skills :dizzy:</h3>
+<h3 align="center">:dizzy: Skills :dizzy:</h3>
 <p>
   Language:
 </p>
