@@ -2,7 +2,7 @@
   <img align="center" src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=Full+Stack+Tech;Hardware+Expert;Food+Enthusiast;Aspiring+Game+Dev;Indie+Game+Enthusiast"/>
 </h1>
 
-<h2 align="center>
+<h2 align="center">
   Hi there, I'm Chris Williford 👋
 </h2>
 
