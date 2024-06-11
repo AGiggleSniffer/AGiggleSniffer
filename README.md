@@ -3,9 +3,8 @@
 </h1>
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AGiggleSniffer?tab=followers)
 [![GitHub followers](https://img.shields.io/github/followers/AGiggleSniffer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AGiggleSniffer?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/AGiggleSniffer/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/AGiggleSniffer/StrapDown.js/stargazers/)
 
 <h2 align="center">
   Hi there, I'm Chris Williford 👋
