@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center>
+  Hi there, I'm Chris Williford 👋
+</h1>
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text"/>
+  </a>
+</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AGiggleSniffer/AGiggleSniffer/blob/output/github-contribution-grid-snake-dark.svg" />
