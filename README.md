@@ -3,8 +3,8 @@
 </h1>
 
 <h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?center=true&lines=Full+Stack+Tech;Hardware+Expert;Food+Enthusiast;Aspiring+Game+Dev;Game+Enthusiast"/>
+  <a align="center" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?center=true&lines=Full+Stack+Tech;Hardware+Expert;Food+Enthusiast;Aspiring+Game+Dev;Indie+Game+Enthusiast"/>
   </a>
 </h2>
 
