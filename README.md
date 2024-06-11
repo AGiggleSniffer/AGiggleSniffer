@@ -1,13 +1,6 @@
-<p align="left">
-  <a href="https://github.com/AGiggleSniffer?tab=followers">
-    <img alt="GitHub followers" src="https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique" />
-  </a>
-</p>
-
 <p align="right">
-  <a href="http://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000" />
     <img alt="HitCount" src="https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique" />
-  </a>
 </p>
 
 <h1 align="center">
