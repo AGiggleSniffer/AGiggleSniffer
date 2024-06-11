@@ -42,7 +42,7 @@
   </picture>
 </div>
 
-<div>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/overview.svg#gh-dark-mode-only" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/overview.svg#gh-light-mode-only" />
@@ -54,9 +54,6 @@
     <img alt="languages" src="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-dark-mode-only" />
   </picture>
 </div>
-
-![](https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-light-mode-only)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
