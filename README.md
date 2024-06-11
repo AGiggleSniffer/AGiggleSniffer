@@ -6,6 +6,9 @@
   Hi there, I'm Chris Williford 👋
 </h2>
 
+<h3>Skills</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cs)](https://skillicons.dev)
+
 <div align="center">
   <h2 align="center">
     My Contributions
