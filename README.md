@@ -7,6 +7,9 @@
 </h2>
 
 <div align="center">
+  <h2>
+    My Contributions
+  </h2>
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AGiggleSniffer/AGiggleSniffer/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/AGiggleSniffer/AGiggleSniffer/blob/output/github-contribution-grid-snake.svg" />
