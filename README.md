@@ -53,6 +53,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-light-mode-only" />
     <img alt="languages" src="https://raw.githubusercontent.com/AGiggleSniffer/Readme-Info/master/generated/languages.svg#gh-dark-mode-only" />
   </picture>
+    <br/><br/><br/>
 </div>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
