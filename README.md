@@ -6,23 +6,23 @@
   Hi there, I'm Chris Williford 👋
 </h2>
 
-<h3>Skills</h3>
+<h3>:dizzy: Skills :dizzy:</h3>
 <p>
   Language:
-  <img src="https://skillicons.dev/icons?i=html,css,svg,cs,js,py,cs,powershell,regex" />
 </p>
+<img src="https://skillicons.dev/icons?i=html,css,svg,cs,js,py,cs,powershell,regex" />
 <p>
   Deployment:
-  <img src="https://skillicons.dev/icons?i=github,git,bitbucket,docker,githubactions" />
 </p>
+<img src="https://skillicons.dev/icons?i=github,git,bitbucket,docker,githubactions" />
 <p>
   Database:
-  <img src="https://skillicons.dev/icons?i=postgres,sequelize,mysql,sqlite" />
 </p>
+<img src="https://skillicons.dev/icons?i=postgres,sequelize,mysql,sqlite" />
 <p>
   Other Technologies:
-  <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,nodejs,npm,vite,threejs,react,redux,unity,postman,ps,visualstudio,vscode" />
 </p>
+<img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,nodejs,npm,vite,threejs,react,redux,unity,postman,ps,visualstudio,vscode" />
 
 <div align="center">
   <h2 align="center">
