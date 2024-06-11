@@ -41,7 +41,7 @@
   <h2 align="center">
     <br/>
     My Contributions
-    <br/><br/><br/>
+    <br/><br/>
   </h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AGiggleSniffer/AGiggleSniffer/blob/output/github-contribution-grid-snake-dark.svg" />
