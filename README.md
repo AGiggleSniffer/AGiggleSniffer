@@ -23,7 +23,7 @@
 <p>
   Language:
 </p>
-<img src="https://skillicons.dev/icons?i=html,css,svg,js,py,cs,powershell,regex" />
+<img src="https://skillicons.dev/icons?i=html,css,svg,js,py,java,cs,powershell,regex" />
 <p>
   Deployment:
 </p>
