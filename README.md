@@ -1,9 +1,3 @@
-<style>
-h1, h2 {
-   border: none!important;
-}
-</style>
-
 <p align="right">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AGiggleSniffer.svg?style=social&label=Follow&maxAge=2592000" />
     <img alt="HitCount" src="https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique" />
@@ -14,6 +8,8 @@ h1, h2 {
 </p>
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/slaying-bugs-crushing-code.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
 <h1 align="center">
     Hi there, I'm Chris Williford 👋
