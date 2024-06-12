@@ -7,13 +7,15 @@
   <img src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=⚡+Full+Stack+Tech+⚡;💻+Hardware+Expert+💻;🍰+Food+Enthusiast+🍜;👾+Aspiring+Game+Dev+👾;🎮+Indie+Game+Enthusiast+🎮"/>
 </p>
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/slaying-bugs-crushing-code.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-
 <h1 align="center">
     Hi there, I'm Chris Williford 👋
 </h1>
+
+<div align="center">
+    [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+    [![forthebadge](https://forthebadge.com/images/badges/slaying-bugs-crushing-code.svg)](https://forthebadge.com)
+    [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+</div>
 
 <h2 align="center">
     :dizzy: Skills :dizzy:
