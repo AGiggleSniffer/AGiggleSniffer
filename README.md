@@ -12,9 +12,9 @@
 </h1>
 
 <div align="center">
+        <img alt="ForTheBadge" src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"/>
         <img alt="ForTheBadge" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"/>
         <img alt="ForTheBadge" src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg"/>
-        <img alt="ForTheBadge" src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"/>
 </div>
 
 <h2 align="center">
