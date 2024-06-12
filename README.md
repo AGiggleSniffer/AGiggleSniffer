@@ -1,7 +1,7 @@
 <p align="right">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AGiggleSniffer" />
     <picture>
-        <a href="https://github.com/Naereen?tab=followers">
+        <a href="https://github.com/AGiggleSniffer?tab=followers">
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/AGiggleSniffer.svg?style=social&label=Follow&maxAge=2592000" />
         </a>
     </picture>
