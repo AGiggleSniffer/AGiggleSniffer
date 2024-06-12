@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=⚡+Full+Stack+Tech+⚡;💻+Hardware+Expert+💻;🍰+Food+Enthusiast+🍜;👾+Aspiring+Game+Dev+👾;🎮+Indie+Game+Enthusiast+🎮"/>
+  <img src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=⚡+Full+Stack+Tech+⚡;💻+Hardware+Expert+💻;🍜+Food+Enthusiast+🍜;💜+Indie+Game+Lover+💜;✨+Tech+Junkie+✨"/>
 </p>
 
 <h1 align="center">
-    Hi there, I'm Chris Williford 👋
+    Hi there, I'm Chris Williford <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 </h1>
 
 <div align="center">
