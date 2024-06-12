@@ -1,6 +1,6 @@
 <p align="right">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AGiggleSniffer" />
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AGiggleSniffer.svg?style=social&label=Follow&maxAge=2592000" />
-    <img alt="HitCount" src="https://hits.dwyl.com/AGiggleSniffer/AGiggleSniffer.svg?style=flat-square&show=unique" />
 </p>
 
 <p align="center">
