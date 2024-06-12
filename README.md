@@ -13,7 +13,7 @@
 
 <div align="center">
     <a>
-        <img alt="ForTheBadge" src"http://ForTheBadge.com/images/badges/makes-people-smile.svg"/>
+        <img alt="ForTheBadge" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"/>
         <img alt="ForTheBadge" src="https://forthebadge.com/images/badges/slaying-bugs-crushing-code.svg"/>
         <img alt="ForTheBadge" src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"/>
     </a>
