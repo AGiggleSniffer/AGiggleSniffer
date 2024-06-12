@@ -12,7 +12,11 @@
 </h1>
 
 <div align="center">
-    <img alt="ForTheBadge" src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"/>
+    <picture>
+        <a href="https://github.com/AGiggleSniffer/AGiggleSniffer/blob/main/20240321_201036.jpg">
+            <img alt="ForTheBadge" src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"/>
+        </a>
+    </picture>
     <img alt="ForTheBadge" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"/>
     <img alt="ForTheBadge" src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg"/>
 </div>
