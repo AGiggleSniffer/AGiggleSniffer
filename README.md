@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=⚡+Full+Stack+Tech+⚡;💻+Hardware+Expert+💻;🍜+Food+Enthusiast+🍜;💜+Indie+Game+Lover+💜;✨+Tech+Junkie+✨"/>
+  <img src="https://readme-typing-svg.demolab.com/?size=35&center=true&lines=+⚡+Full+Stack+Tech+⚡+;+💻+Hardware+Expert+💻+;+🍜+Food+Enthusiast+🍜+;+💜+Indie+Game+Lover+💜+;+✨+Tech+Junkie+✨+"/>
 </p>
 
 <h1 align="center">
-    Hi there, I'm Chris Williford <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+    Hi there, I'm Chris Williford <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 </h1>
 
 <div align="center">
@@ -18,7 +18,7 @@
 </div>
 
 <h2 align="center">
-    :dizzy: Skills :dizzy:
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 </h2>
 <p>
   Language:
@@ -39,7 +39,7 @@
 
 <div align="center">
   <h2 align="center">
-    My Contributions
+    My Contributions <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />
   </h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AGiggleSniffer/AGiggleSniffer/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -63,6 +63,7 @@
     <br/><br/><br/>
 </div>
 
+<h2>Find me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /></h2>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
