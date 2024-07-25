@@ -82,7 +82,7 @@
 <h2>Find me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" /></h2>
 <picture>
     <a href="https://agigglesniffer.github.io">
-        <img alt="portfolio" src="https://img.shields.io/badge/Portfolio?style=for-the-badge"/>
+        <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/>
     </a>
 </picture>
 <picture>
